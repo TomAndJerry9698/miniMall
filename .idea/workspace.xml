@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c75c33eb-8b33-40dd-aa40-6f7c51977112" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/pull_request_template.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miniMall_BE/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/miniMall_BE/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/REQUIREMENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
